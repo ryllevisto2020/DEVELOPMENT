@@ -1,0 +1,25 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Session_and_cookie
+build_property.RootNamespace = Session_and_cookie
+build_property.ProjectDir = E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\Session-and-cookie\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\Session-and-cookie
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/PROJECT - SCRATCH/PRACTICE CODE/ASP/TUTORIAL/Session-and-cookie/Views/Cookie/SetGetCookie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29va2llXFNldEdldENvb2tpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROJECT - SCRATCH/PRACTICE CODE/ASP/TUTORIAL/Session-and-cookie/Views/Session/SetGetSession.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxTZXRHZXRTZXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

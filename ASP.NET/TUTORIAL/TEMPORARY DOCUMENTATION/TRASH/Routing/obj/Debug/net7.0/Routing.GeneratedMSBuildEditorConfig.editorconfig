@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Routing
+build_property.RootNamespace = Routing
+build_property.ProjectDir = E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\Routing\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\Routing
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/PROJECT - SCRATCH/PRACTICE CODE/ASP/TUTORIAL/Routing/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROJECT - SCRATCH/PRACTICE CODE/ASP/TUTORIAL/Routing/Views/Home/optionalParamaters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxvcHRpb25hbFBhcmFtYXRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROJECT - SCRATCH/PRACTICE CODE/ASP/TUTORIAL/Routing/Views/Home/postData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwb3N0RGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROJECT - SCRATCH/PRACTICE CODE/ASP/TUTORIAL/Routing/Views/Home/queryParameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxxdWVyeVBhcmFtZXRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

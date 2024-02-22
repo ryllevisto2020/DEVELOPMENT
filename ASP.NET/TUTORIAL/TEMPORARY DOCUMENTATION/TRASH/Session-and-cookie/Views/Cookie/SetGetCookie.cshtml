@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var cookie = ViewBag.Cookie;
+}
+<h1>Set and Get Cookie Page</h1>
+@if (cookie.CookieName == "")
+{
+    <h1>No Cookie</h1>
+    <form method="POST" action="/CookieSet">
+        <input type="text" placeholder="name" name="username" />
+        <button type="submit" name="setcookie">Set cookie</button>
+    </form>
+
+
+}
+else
+{
+    <h1>Have Cookie</h1>
+    <form method="POST" action="/CookienDelete">
+        <button type="submit" name="deletecookie">Delete cookie</button>
+    </form>
+}

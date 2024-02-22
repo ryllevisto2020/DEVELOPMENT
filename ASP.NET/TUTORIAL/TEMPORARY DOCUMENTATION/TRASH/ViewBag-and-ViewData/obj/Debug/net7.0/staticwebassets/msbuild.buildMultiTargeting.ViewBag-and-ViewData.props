@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ViewBag-and-ViewData.props" />
+</Project>

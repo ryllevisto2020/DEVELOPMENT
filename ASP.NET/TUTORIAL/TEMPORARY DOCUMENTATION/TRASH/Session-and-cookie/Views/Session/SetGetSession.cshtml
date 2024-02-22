@@ -1,0 +1,22 @@
+﻿@page
+@using Microsoft.AspNetCore.Http
+@{
+    var session = ViewBag.Session;
+}
+<h1>Set and Get Session Page</h1>
+@if (session.SessionName == "")
+{
+    <h1>No Session</h1>
+    <form method="POST" action="/SessionSet">
+        <input type="text" placeholder="name" name="username"/>
+        <button type="submit" name="setsession">Set session</button>
+    </form>
+    
+    
+}else
+{
+    <h1>Have Session</h1>
+    <form method="POST" action="/SessionDelete">
+        <button type="submit" name="deletesession">Delete session</button>
+    </form>
+}

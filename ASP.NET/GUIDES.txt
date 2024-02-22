@@ -1,0 +1,35 @@
+-OFFICIAL DOCUMENTATION
+https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0
+
+-API
+https://learn.microsoft.com/en-us/dotnet/api/
+https://learn.microsoft.com/en-us/dotnet/api/?view=net-8.0
+https://learn.microsoft.com/en-us/dotnet/api/?view=netframework-4.8.1
+https://learn.microsoft.com/en-us/dotnet/api/?view=dotnet-plat-ext-8.0
+https://learn.microsoft.com/en-us/dotnet/api/?view=netstandard-2.1
+https://learn.microsoft.com/en-us/dotnet/api/?preserve-view=true&view=aspnetcore-8.0
+https://learn.microsoft.com/en-us/dotnet/api/?preserve-view=true&view=aspnet-mvc-5.2
+https://learn.microsoft.com/en-us/dotnet/api/?preserve-view=true&view=aspnet-webpages-3.2
+https://learn.microsoft.com/en-us/dotnet/api/?preserve-view=true&view=aspnet-webapi-5.2
+
+-WEB APP
+FUNDAMENTALS AND BASIC 
+AUTHENTICATION
+AUTHORIZATION
+COOKIE
+SESSION
+JWT TOKEN
+ROUTING/ROUTES
+MODEL/VIEW/CONTROLLER FRAMEWORK
+REQUEST AND RESPONSE
+HEADERS
+FILE UPLOAD/FILE HANDLING
+FORM DATA/BODY/X-WWW-FORM-URLENCODED
+MIDDLEWARE
+SERVICES/DEPENDENCY INJECTION
+DATABASE MYSQL
+API REQUEST
+
+-REFERENCE
+
+-PACKAGES

@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Register";
+    Layout = "../Layouts/_Layout.cshtml";
+}
+
+<h1>Register</h1>
+<input type="text" placeholder="Username" value="" class="username_account_register" />
+<input type="password" placeholder="Password" value="" class="password_account_register" />
+<input type="password" placeholder="Confirm Password" value="" class="Conpassword_account_register" />
+<input type="button" value="Register" class="button_account_register"/>
+
+<script>
+    $(document).ready(function(){
+        $('.button_account_register').click(function(){
+            let username = $('.username_account_register').val();
+            
+        })
+    })
+</script>

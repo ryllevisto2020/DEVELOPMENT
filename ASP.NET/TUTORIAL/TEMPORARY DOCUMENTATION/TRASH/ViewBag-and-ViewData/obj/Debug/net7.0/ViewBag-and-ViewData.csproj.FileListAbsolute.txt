@@ -1,0 +1,58 @@
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.csproj.AssemblyReference.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.AssemblyInfoInputs.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.AssemblyInfo.cs
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.csproj.CoreCompileInputs.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.RazorAssemblyInfo.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.RazorAssemblyInfo.cs
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\bin\Debug\net7.0\appsettings.Development.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\bin\Debug\net7.0\appsettings.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.staticwebassets.runtime.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.exe
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.deps.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.runtimeconfig.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.dll
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.pdb
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets\msbuild.ViewBag-and-ViewData.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets\msbuild.build.ViewBag-and-ViewData.props
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ViewBag-and-ViewData.props
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ViewBag-and-ViewData.props
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets.build.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets.development.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\scopedcss\bundle\ViewBag-and-ViewData.styles.css
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.dll
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\refint\ViewBag-and-ViewData.dll
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.pdb
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.genruntimeconfig.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP\TUTORIAL\ViewBag-and-ViewData\obj\Debug\net7.0\ref\ViewBag-and-ViewData.dll
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\bin\Debug\net7.0\appsettings.Development.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\bin\Debug\net7.0\appsettings.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.staticwebassets.runtime.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.exe
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.deps.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.runtimeconfig.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.dll
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\bin\Debug\net7.0\ViewBag-and-ViewData.pdb
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.csproj.AssemblyReference.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.AssemblyInfoInputs.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.AssemblyInfo.cs
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.csproj.CoreCompileInputs.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.RazorAssemblyInfo.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.RazorAssemblyInfo.cs
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets\msbuild.ViewBag-and-ViewData.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets\msbuild.build.ViewBag-and-ViewData.props
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ViewBag-and-ViewData.props
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ViewBag-and-ViewData.props
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets.build.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\staticwebassets.development.json
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\scopedcss\bundle\ViewBag-and-ViewData.styles.css
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.dll
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\refint\ViewBag-and-ViewData.dll
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.pdb
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ViewBag-and-ViewData.genruntimeconfig.cache
+E:\PROJECT - SCRATCH\PRACTICE CODE\ASP.NET\TUTORIAL\TEMPORARY DOCUMENTATION\TRASH\ViewBag-and-ViewData\obj\Debug\net7.0\ref\ViewBag-and-ViewData.dll
