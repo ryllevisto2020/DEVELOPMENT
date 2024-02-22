@@ -1,0 +1,3 @@
+routes/web.php -> declare routes for your website
+routes/api.php -> declare routes for your API
+

@@ -1,0 +1,58 @@
+LARAVEL CHECKLIST:
+
+Array
+Sorting
+Function
+Constructor
+OOP
+
+WE NEED TO KNOW:
+Validation
+Authentication
+Authorization(Gates,Policies,etc)
+Cookie
+Session
+Token
+Custom Header Request and Response
+Upload File
+Regex
+Encrypt
+Decrypt
+Parse
+Stringify
+Serialize
+Deserialize
+Encode
+Decode
+Hash
+Short Tag
+Controller
+Model
+View
+Route
+API
+Sanctum
+Eloquent
+Middleware
+Repository Pattern
+Fluent Design
+Request
+Response
+Rules
+SMTP
+Validation
+Events
+Listener
+Sotrage
+Pipeline
+Queue
+Action
+Repository
+Contract
+Observer
+Service
+Service Provider
+Serivce Container
+Storage Link
+Files
+Job

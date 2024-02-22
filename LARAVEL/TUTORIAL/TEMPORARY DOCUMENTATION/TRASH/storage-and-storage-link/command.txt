@@ -1,0 +1,1 @@
+php artisan storage:link -> link storage path to public path

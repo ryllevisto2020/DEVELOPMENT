@@ -1,0 +1,9 @@
+.confirmpassErr_Show{
+    visibility: visible!important;;
+}
+.usernameErr_Show{
+    visibility: visible!important;
+}
+.passErr_Show{
+    visibility: visible!important;
+}

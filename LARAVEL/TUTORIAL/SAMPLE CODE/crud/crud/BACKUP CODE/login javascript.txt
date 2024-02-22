@@ -1,0 +1,69 @@
+$(document).ready(function(){
+            function load(){
+                $('.load').load('');
+            }
+            function clear(){
+                $(`.0x1_age`).css("display","none");
+                $(`.0x1_name`).css("display","none");
+                $(`.0x1_email`).css("display","none");
+                $(`.0x1_password`).css("display","none");
+            }
+            $('.action_SignUp').click(function(){
+                clear();
+                Swal.fire({
+                    imageUrl: 'https://www.wpfaster.org/wp-content/uploads/2013/06/loading-gif.gif',
+                    imageHeight: 100,
+                    title: 'Loading...\nPlease wait',
+                    showConfirmButton: false,
+                    allowOutsideClick: false
+                  })
+                var data = {
+                    age:$('.input_Age').val(),
+                    name:$('.input_Name').val(),
+                    email:$('.input_Email').val(),
+                    password:$('.input_Password').val()
+                };
+                $.ajax({
+                    type: "GET",
+                    url: "/signup",
+                    data: data,
+                    contentType: "application/json",
+                    success:function(res){
+                        try {
+                            for(var i = 0; i < res.error.length; i++) {
+                                $(`.${res.error[i].err_code}`).css("display","block");
+                                if(res.error[i].err_code == "0x1_connection"){
+                                    Swal.close({timer:1500})
+                                    Swal.fire({
+                                        icon: 'error',
+                                        title: res.error[i].err_message,
+                                        showConfirmButton: false,
+                                        allowOutsideClick: false,
+                                        timer: 2000,
+                                      })
+                                }
+                            }
+                        } catch (err) {
+                            //
+                        }
+                        try {
+                            if(res.success.code == '0x2'){
+                                Swal.close({timer:1500})
+                                    Swal.fire({
+                                        icon: 'success',
+                                        title: res.success.message,
+                                        showConfirmButton: false,
+                                        allowOutsideClick: false,
+                                        timer: 2000,
+                                      }).then((result) => {
+                                        load();
+                                      })
+
+                            }
+                        } catch (err) {
+                            //
+                        }
+                    }
+                });
+            })
+        })

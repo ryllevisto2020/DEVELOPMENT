@@ -1,0 +1,46 @@
+dependency injection
+authorization and authentication
+routing
+controller
+middleware
+model
+response
+session and cookie
+storage and storage link -> use for uploading files
+(API)
+(Sanctum)
+(Files)
+(Service Provider and Container)
+(Observer)
+(Contract)
+(Repository Pattern)
+(Actions)
+(Queue and Jobs)
+(Pipeline)
+(Listener and Events)
+(SMTP)
+(Form request and form request validation)
+
+Set Request & response headers -> to inspect request & response headers use dd(<request variables>)
+Get Request & response headers ->
+Guard for authentication/authorization & sanctum
+JWT libraries
+crud operation with database
+regex
+
+COMMAND:
+php artisan make:controller <name of controller>
+php artisan make:model <name of model> -m
+php artisan migrate
+php artisan migrate:refresh
+php artisan db:seed
+php artisan make:factory <name of factory>
+php artisan make:middleware <name of middleware>
+
+routes/web.php -> for routing/routes
+app/http/controllers/<name of controllers -> for controller functions
+app/http/middleware/<name of middleware> -> for middleware functions
+app/http/kernel.php -> for middleware registration
+app/Models/<name of models> -> for models function
+app/Providers/AuthServiceProvider.php -> for gate authorization
+config/auth.php -> for creating guards model for authentication/Sanctum abilities,ability

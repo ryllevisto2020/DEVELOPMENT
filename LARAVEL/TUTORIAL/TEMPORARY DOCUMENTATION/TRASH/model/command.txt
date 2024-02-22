@@ -1,0 +1,5 @@
+php artisan make:model <name of model>
+php artisan make:model <name of model> -m  //model with migration
+php artisan make:migration <create_<name of your model>_table>
+php artisan migrate //to migrate all your migration model to database
+php artisan model:show <name of your model>
