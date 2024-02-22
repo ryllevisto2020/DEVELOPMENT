@@ -1,0 +1,12 @@
+middleware
+routing
+session and cookie
+router
+response
+(mysql)
+
+Set Request & response headers -> to inspect request & response headers use console.log(<request variables>)
+Get Request & response headers ->
+Get Request & response 
+JWT libraries
+express(express.json(),express.raw(),express.Router(),express.static(),express.text(),express.urlencoded())

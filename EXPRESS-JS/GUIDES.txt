@@ -1,0 +1,38 @@
+-OFFICIAL DOCUMENTATION
+https://expressjs.com/en/starter/installing.html
+https://expressjs.com/en/guide/routing.html
+https://expressjs.com/en/advanced/developing-template-engines.html
+
+-API
+https://expressjs.com/en/4x/api.html
+
+-WEB APP
+FUNDAMENTALS AND BASIC 
+AUTHENTICATION
+AUTHORIZATION
+COOKIE
+SESSION
+JWT TOKEN
+ROUTING/ROUTES
+MODEL/VIEW/CONTROLLER FRAMEWORK
+REQUEST AND RESPONSE
+HEADERS
+FILE UPLOAD/FILE HANDLING
+FORM DATA/BODY/X-WWW-FORM-URLENCODED
+MIDDLEWARE
+SERVICES/DEPENDENCY INJECTION
+DATABASE MYSQL
+API REQUEST
+
+-REFERENCE
+
+-PACKAGES
+express
+nodemon
+cookie-parser
+body-parser
+express-session
+json-server
+express-fileupload
+mysql
+cors
