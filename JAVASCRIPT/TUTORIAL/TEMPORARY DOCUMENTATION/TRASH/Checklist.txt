@@ -1,0 +1,7 @@
+JAVASCRIPT CHECKLIST
+
+Array
+Map
+Construtor
+Function
+OOP

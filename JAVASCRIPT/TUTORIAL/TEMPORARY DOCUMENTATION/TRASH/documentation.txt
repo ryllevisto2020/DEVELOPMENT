@@ -1,0 +1,12 @@
+--JQUERY
+.on
+.addclass
+.append
+.click
+.ready
+
+--JAVASCRIPT
+
+--JSPDF -> generate PDF
+--HTML2CANVASS
+--HTML2PDF

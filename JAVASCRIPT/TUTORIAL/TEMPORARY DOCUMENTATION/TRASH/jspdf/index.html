@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script>
+            $(document).ready(function(){
+                    const {jsPDF} = window.jspdf;
+                    const height = document.querySelector('.this_is_sample').offsetHeight; 
+                    console.log(height);
+                    const width = document.querySelector('.this_is_sample').offsetWidth; 
+                    console.log(width);
+                    let doc = new jsPDF({ unit: 'px',hotfixes:['px_scaling']});
+                    let dom = document.querySelector('.this_is_sample');
+                    doc.get
+                    doc.html(dom,{autoPaging:'text',x:0,y:0,callback:function(doc){doc.save('a.pdf');}});
+                    
+            });
+        </script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        <script src="" async defer></script>
+        <button class="save_text">save text</button>
+        <button class="save_html">save html</button>
+        <div class="this_is_sample">
+          <div style="text-align: -webkit-center;width: 500px;">
+            <p style="font-size: 25px;margin-top:0px!important ;margin-bottom: 0px!important;">Coconut House</p>
+            <p style="font-size: 25px;margin-top:0px!important ;margin-bottom: 0px!important;">BY: Cocohouse Circle Co.</p>
+            <p style="font-size: 25px;margin-top:0px!important ;margin-bottom: 0px!important;">Quezon City Circle Elliptical</p>
+            <table class="table" style="align-items: center;">
+              <thead>
+                <tr>
+                  <th scope="col">QTY</th>
+                  <th scope="col">ITEM</th>
+                  <th scope="col">PRICE</th>
+                  <th scope="col">AMOUNT</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row">1</th>
+                  <td style="word-break: break-all;">Jolly Hotdog</td>
+                  <td style="word-break: break-all;">50.00</td>
+                  <td>50.00</td>
+                </tr>
+              </tbody>
+            </table>
+        </div>
+    </body>
+</html>

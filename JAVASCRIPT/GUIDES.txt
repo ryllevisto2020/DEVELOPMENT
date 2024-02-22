@@ -1,0 +1,13 @@
+-OFFICIAL DOCUMENTATION
+https://developer.mozilla.org/en-US/docs/Web/javascript
+https://api.jquery.com/
+
+-API
+https://developer.mozilla.org/en-US/docs/Web/API
+
+-WEB APP
+
+-REFERENCE
+
+-PACKAGES
+jspdf
