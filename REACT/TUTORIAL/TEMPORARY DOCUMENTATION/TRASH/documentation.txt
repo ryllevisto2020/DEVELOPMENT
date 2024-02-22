@@ -1,0 +1,18 @@
+class and function
+components and props
+useState and Array and Map/Mapping
+Fetch and Axios
+Session and cookies
+react hooks(use,usecallback,usecontexxt,usedebugvalue,useeffect,useid,useimperativehandle,useinsertioneffect,uselayouteffect,
+usememo,useoptimistic,usereducer,useref,usestate,usesyncexternalstore,usetransition)
+(react-router-dom) -> navigation and multiple pages
+(dangerouslySetInnerHTML)
+(Redux)
+(higher order components)
+(refs and forwardRefs)
+(Method Props)
+(React-pdf)
+(React-to-print)
+(React-to-pdf)
+
+JWT libraries
